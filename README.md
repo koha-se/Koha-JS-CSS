@@ -1,3 +1,3 @@
 # Javascript och CSS
 
-A repository for various scripts, plug-ins, fixes, tweaks and enhancements created by members of the Swedish Koha User Group (Svenska Kohanätverket).
+JS för olika funktioner främst för personalgränssnittet men också OPAC. 
